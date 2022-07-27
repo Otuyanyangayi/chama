@@ -33,7 +33,7 @@ const initialState = {
 	expenses: [
 		{ id: uuidv4(), name: '', cost: 0 },
 		{ id: uuidv4(), name: '', cost: 0 },
-		{ id: uuidv4(), name: '', cost: 1515 },
+		{ id: uuidv4(), name: 'Otuya', cost: 1515 },
 		{ id: uuidv4(), name: '', cost: 0 },
 		{ id: uuidv4(), name: '', cost: 0 },
 	],
