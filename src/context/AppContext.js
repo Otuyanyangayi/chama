@@ -35,7 +35,7 @@ const initialState = {
 		{ id: uuidv4(), name: 'Lydia - 0', cost: 0 },
 		{ id: uuidv4(), name: 'Otuya -1515', cost: 1515 },
 		{ id: uuidv4(), name: 'Audrey -To be paid to', cost: 0 },
-		{ id: uuidv4(), name: 'Agatha -985', cost: 985 },
+		{ id: uuidv4(), name: 'Agatha -1500', cost: 1500 },
 	],
 };
 
