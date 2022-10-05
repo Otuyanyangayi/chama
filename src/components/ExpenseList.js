@@ -21,7 +21,7 @@ const ExpenseList = () => {
 	return (
 		<>
 		<p>Payment deadline 2nd of every month!!</p>
-		<h4>Sep Details</h4>
+		<h4>Oct Details</h4>
 			<input
 				type='text'
 				class='form-control mb-2 mr-sm-2'
