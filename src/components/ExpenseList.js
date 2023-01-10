@@ -22,7 +22,7 @@ const ExpenseList = () => {
 		<>
 		<p>Payment deadline 2nd of every month!!</p>
 		<p>Payment is 2020 shillings. The receiver should pay 20 shillings</p>
-		<p>November Details</p>
+		<p>December Details</p>
 			<input
 				type='text'
 				class='form-control mb-2 mr-sm-2'
