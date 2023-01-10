@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/chama/static/css/main.4de0fa12.css",
-    "main.js": "/chama/static/js/main.9c9fc50b.js",
+    "main.js": "/chama/static/js/main.d08c2346.js",
     "static/js/787.397634a3.chunk.js": "/chama/static/js/787.397634a3.chunk.js",
     "static/media/bg2.jpeg": "/chama/static/media/bg2.d8edc753d51cb747e25c.jpeg",
     "index.html": "/chama/index.html",
     "main.4de0fa12.css.map": "/chama/static/css/main.4de0fa12.css.map",
-    "main.9c9fc50b.js.map": "/chama/static/js/main.9c9fc50b.js.map",
+    "main.d08c2346.js.map": "/chama/static/js/main.d08c2346.js.map",
     "787.397634a3.chunk.js.map": "/chama/static/js/787.397634a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4de0fa12.css",
-    "static/js/main.9c9fc50b.js"
+    "static/js/main.d08c2346.js"
   ]
 }
