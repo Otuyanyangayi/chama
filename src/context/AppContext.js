@@ -29,13 +29,13 @@ export const AppReducer = (state, action) => {
 
 // 1. Sets the initial state when the app loads
 const initialState = {
-	budget: 6075,
+	budget: 8100,
 	expenses: [
-		{ id: uuidv4(), name: 'Achieng -1515', cost: 1515 },
-		{ id: uuidv4(), name: 'Lydia -0', cost: 0 },
-		{ id: uuidv4(), name: 'Otuya -1515', cost: 1515 },
-		{ id: uuidv4(), name: 'Audrey -1515', cost: 1515 },
-		{ id: uuidv4(), name: 'Agatha -1515', cost:1515 },
+		{ id: uuidv4(), name: 'Achiengi -2020 ', cost: 2020 },
+		{ id: uuidv4(), name: 'Lydia -To be paid to', cost: 2020 },
+		{ id: uuidv4(), name: 'Otuya -2020', cost: 2020},
+		{ id: uuidv4(), name: 'Audrey -2020', cost: 2020 },
+		{ id: uuidv4(), name: 'Agatha -2020', cost: 2020},
 	],
 };
 
